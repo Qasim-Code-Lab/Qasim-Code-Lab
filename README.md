@@ -38,5 +38,5 @@ AI-powered document processing and management system.
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/raja-qasim-khan-135768370
+- LinkedIn: https://www.linkedin.com/in/raja-qasim-khan-135768370/
 - Email: rq36379@gmail.com
