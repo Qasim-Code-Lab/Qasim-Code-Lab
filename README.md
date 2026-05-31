@@ -30,6 +30,7 @@ AI-powered document processing and management system.
 
 ## Currently Learning
 
+- RAG System
 - MLOps
 - Advanced Computer Vision
 - Scalable AI Systems
